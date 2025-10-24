@@ -7,7 +7,7 @@ E-Commerce-Sentiment-Analysis/
 │   └── sentiment_analysis.ipynb
 ├── requirements.txt
 └── README.md
--------
+
 | review                                  | sentiment |
 | --------------------------------------- | --------- |
 | I love this product, very useful!       | 1         |
@@ -21,7 +21,6 @@ scikit-learn
 nltk
 matplotlib
 seaborn
------
 
 
 # E-Commerce Sentiment Analysis
